@@ -1,0 +1,13 @@
+{
+  "title": "IA Meta se apresenta, pergunta retorno.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "olá, quem é você?"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá! Eu sou um modelo de linguagem de inteligência artificial desenvolvido pela Meta AI. Meu objetivo é fornecer informações precisas e úteis às pessoas que me interagem. Estou aqui para ajudar com perguntas, responder dúvidas, fornecer informações e até mesmo conversar sobre tópicos de interesse.\n\nPosso falar sobre uma variedade de assuntos, desde notícias e eventos atuais até história, ciência, tecnologia, cultura e muito mais. Se você tiver alguma pergunta ou precisar de ajuda com algo, sinta-se à vontade para perguntar!\n\nE você, quem é? O que você gostaria de conversar sobre?"
+    }
+  ]
+}

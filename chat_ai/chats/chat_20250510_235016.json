@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "me de um código em Python que diz \"olá\""
+  },
+  {
+    "role": "assistant",
+    "content": "```python\nprint(\"Olá!\")\n```\n\nEste código simples usa a função `print()` em Python para exibir a string \"Olá!\" no console.\n"
+  }
+]

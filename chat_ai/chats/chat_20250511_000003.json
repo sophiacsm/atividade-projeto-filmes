@@ -1,0 +1,13 @@
+{
+  "title": "**Python diz olá: Código simples.**",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Me dê um código em python que diga \"olá\""
+    },
+    {
+      "role": "assistant",
+      "content": "```python\nprint(\"Olá!\")\n```\n\nEste código simples usa a função `print()` do Python para exibir a string \"Olá!\" no console.\n"
+    }
+  ]
+}
